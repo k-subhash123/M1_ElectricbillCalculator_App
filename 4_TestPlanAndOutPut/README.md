@@ -1,2 +1,3 @@
-Input
-output
+1
+rithik
+56
