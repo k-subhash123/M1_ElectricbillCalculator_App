@@ -1,4 +1,5 @@
 Introduction
+
 An online voting system is a software platform that allows groups to securely conduct votes and election. high quality online voting system balance ballot security ,accessibility, and the overall reqiurements of an organization's voting event.
 
 Online voting tools and online election voting systems help you make important decisions by gathering the input of your group in a way that’s systematic and verifiable. Oftentimes, these decisions are made on a yearly basis - during an event (e.g. your organization’s AGM) or at a particular time of the year. Or you might run ongoing polls amongst your group (e.g. anonymous employee feedback surveys).
