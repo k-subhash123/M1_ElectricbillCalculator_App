@@ -45,17 +45,27 @@ Detail Requirements:
 High Level Requirements:
 
   1 Electricity bill calculation at Urban areas if(units<30).
+
   2 Electricity bill calculation at Urban areas if(units>30 && units <100).
-  3 Electricity bill calculation at Urban areas if(units>101 && units <200).	
-4 Electricity bill calculation at Urban areas if(units<200).	
-5 Electricity bill calculation at Rural areas if(units<30).
-6 Electricity bill calculation at Rural areas if(units>30 && units <100).	
-7 Electricity bill calculation at Rural areas if(units>101 && units <200).	
-8 Electricity bill calculation at Rural areas if(units<200).
+
+  3 Electricity bill calculation at Urban areas if(units>101 && units <200).
+
+  4 Electricity bill calculation at Urban areas if(units<200).	
+
+  5 Electricity bill calculation at Rural areas if(units<30).
+
+  6 Electricity bill calculation at Rural areas if(units>30 && units <100).
+
+  7 Electricity bill calculation at Rural areas if(units>101 && units <200).	
+
+  8 Electricity bill calculation at Rural areas if(units<200).
 
 Low Level Requirement:
 
 1)Calculates electricity bill at rural areas.
+
 2)Calculates electricity bill at urban areas.
+
 3)Calculates total load at domestics places.
+
 4)Calculates total unit consumed at domestics places.
