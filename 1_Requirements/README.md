@@ -19,33 +19,32 @@ REQUIREMENTS
 
 In addition, high-end electricity bill calculators generally include:
 
-electricity bill calculation in urban areas
+    ->electricity bill calculation in urban areas
 
-electricity bill calculation in rural areas
+    ->electricity bill calculation in rural areas
 
-bill calculation based on units consumed
+    ->bill calculation based on units consumed
 
-Defining System:
 
-Design and testing operations of electricity bill calculator using unit testing algorithm.
+-->SWOT analysis:
 
-SWOT analysis:
+        Strengths: Innovative, User-friendly.
 
-Strengths: Innovative, User-friendly.
+        Weakness: Cost of calculator increases as features added in the calculator increase.
 
-Weakness: Cost of calculator increases as features added in the calculator increase.
+        Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
 
-Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
+        Threats: Slower growth in an innovation always threat for the company in this dynamic world.
 
-Threats: Slower growth in an innovation always threat for the company in this dynamic world.
+-->4’W and 1’H
 
-at: Electricity bill calculator**
+        What: Electricity bill calculator**
 
-Where: School, Science, domestic, industries, Technology
+        Where: School, Science, domestic, industries, Technology
 
-When: Need for calculation.
+        When: Need for calculation.
 
-How: Calculates the user input as number of loads and gives the output.
+        How: Calculates the user input as number of loads and gives the output.
 
 Detail Requirements:
 
