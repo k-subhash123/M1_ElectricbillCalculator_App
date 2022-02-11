@@ -1,38 +1,43 @@
-Introduction
 
-* An online voting system is a software platform that allows groups to securely conduct votes and       election. high quality online voting system balance ballot security ,accessibility, and the overall reqiurements of an organization's voting event.
+REQUIREMENTS
 
-* Online voting tools and online election voting systems help you make important decisions by gathering the input of your group in a way that’s systematic and verifiable. Oftentimes, these decisions are made on a yearly basis - during an event (e.g. your organization’s AGM) or at a particular time of the year. Or you might run ongoing polls amongst your group (e.g. anonymous employee feedback surveys).
+#INTRODUCTION: The Electricity Bill calculator project is the application based mini project, which is used to predict the electricity bill of next month by taking input of appliance or load used. The tool used for writing the code in this project is visual studio code. This project has multi file and multiplatform approach (Linux and Windows).
 
-* It’s a good idea to use an online voting system to: Elect your leadership: A board of directors election is a good example, where there are multiple positions (e.g. chair, vice president, secretary, treasurer). All of which may include supporting documentation (e.g. biographies, resumés, headshots).
+#RESEARCH
 
-* Admit new members to your group. This helps you stick to a regular, fair process of evaluation and lets candidates know what to expect. Gather anonymous feedback from your employees. Managers (and managers of managers) want to know how their employees truly feel about their jobs and work life. Using an online voting system with a capacity for secret balloting helps employees express their true feelings, by understanding and trusting that their feedback will be heard, but not tied directly to them.
+People who don’t have technical knowledge of calculating electricity bill can use this application to predict electricity bill of upcoming months, however, the defining features of an electricity bill calculator include:
 
-Requirements
+power rating of all loads
+total load calculation
+unit consumed per day
+units consumed per month
 
--> High level reqiurements
+In addition, high-end electricity bill calculators generally include:
 
-1.User could be able to login
+electricity bill calculation in urban areas
+electricity bill calculation in rural areas
+bill calculation based on units consumed
 
-2.User could be able to choose the candidtae whom to vote
+Defining System:
 
-3.User could be able to caste the vote
+Design and testing operations of electricity bill calculator using unit testing algorithm.
 
-4.User could be able to save records in a file
+SWOT analysis:
 
-5.Data should not be lost in case of faliure Scenario
+Strengths: Innovative, User-friendly.
 
-6.Data should always be stored when closing the system
+Weakness: Cost of calculator increases as features added in the calculator increase.
 
-7.Admin should be able to maintain all the records.
+Opportunities: We know that we mostly use pen and paper for calculation. So tech based market always attracts the youth.
 
--> Low level requirements.
+Threats: Slower growth in an innovation always threat for the company in this dynamic world.
 
-1.admin should be able to ban the candidates who are not eligible for votes.
+at: Electricity bill calculator**
 
-2.admin should be able to delete the votes of banned students.
+Where: School, Science, domestic, industries, Technology
 
-3.User shall be able to save the data User shall be able to see the previous data
+When: Need for calculation.
 
-4.User shall be able to work on previous data
+How: Calculates the user input as number of loads and gives the output.
 
+Detail Requirements:
