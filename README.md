@@ -1,6 +1,7 @@
 # Electric Bill Calculator
 ## Description:
-                The Electricity Bill calculator project is the application-based mini-project, which is used to predict the electricity bill of the next month by taking input of appliance or load used.
+   The Electricity Bill calculator project is the application-based mini-project, which is used to
+   predict the electricity bill of the next month by taking input of appliance or load used.
                 
                 
 ## Code Quality
