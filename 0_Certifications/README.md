@@ -1,7 +1,7 @@
-solo learn
+# solo learn
 
-Cisco NDG Linux
+# Cisco NDG Linux
 
-Github Learning
+# Github Learning
 
-Hackerearth
+# Hackerearth
