@@ -76,3 +76,5 @@ In addition, high-end electricity bill calculators generally include:
 3)Calculates total load at domestics places.
 
 4)Calculates total unit consumed at domestics places.
+
+# Design
