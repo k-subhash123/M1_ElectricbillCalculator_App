@@ -1,21 +1,21 @@
 
-##REQUIREMENTS
+## Requirements
 
-   ->INTRODUCTION:  
+   # Introduction:  
    The Electricity Bill calculator project is the application based mini project, which 
    is used to predict the electricity bill of next month by taking input of appliance or load used. The tool used for writing the code in this project is visual studio code. This project has multi file and multiplatform approach (Linux and Windows).
 
-   ->RESEARCH
+   # Research
 
     People who don’t have technical knowledge of calculating electricity bill can use this application to predict electricity bill of upcoming months, however, the defining features of an electricity bill calculator include:
 
-    *power rating of all loads
+    * power rating of all loads
 
-    *total load calculation
+    * total load calculation
 
-    *unit consumed per day
+    * unit consumed per day
 
-    *units consumed per month
+    * units consumed per month
 
 In addition, high-end electricity bill calculators generally include:
 
@@ -26,7 +26,7 @@ In addition, high-end electricity bill calculators generally include:
     ->bill calculation based on units consumed
 
 
--->SWOT analysis:
+# SWOT analysis:
 
         Strengths: Innovative, User-friendly.
 
@@ -36,7 +36,7 @@ In addition, high-end electricity bill calculators generally include:
 
         Threats: Slower growth in an innovation always threat for the company in this dynamic world.
 
--->4’W and 1’H
+# 4’W and 1’H
 
         What: Electricity bill calculator**
 
@@ -46,9 +46,9 @@ In addition, high-end electricity bill calculators generally include:
 
         How: Calculates the user input as number of loads and gives the output.
 
-Detail Requirements:
+# Detail Requirements:
 
-High Level Requirements:
+# High Level Requirements:
 
   1 Electricity bill calculation at Urban areas if(units<30).
 
@@ -66,7 +66,7 @@ High Level Requirements:
 
   8 Electricity bill calculation at Rural areas if(units<200).
 
-Low Level Requirement:
+# Low Level Requirement:
 
 1)Calculates electricity bill at rural areas.
 
