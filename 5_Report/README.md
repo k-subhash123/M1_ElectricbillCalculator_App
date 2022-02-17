@@ -77,4 +77,17 @@ In addition, high-end electricity bill calculators generally include:
 
 4)Calculates total unit consumed at domestics places.
 
-# Design
+## Design
+
+# Behavioural Diagram
+  * High level Behavioural Diagram![HIGH LEVEL BEHAVIOURAL DIAGRAM](https://user-images.githubusercontent.com/98833482/154535248-3dc9698b-d20f-4fc8-a9b8-da7206e4c287.jpg)
+  
+  * Low level Behavioural diagram![LOW LEVEL BEHAVIOURAL DIAGRAM](https://user-images.githubusercontent.com/98833482/154535486-938956fb-46e2-4723-b39b-6ffd7f83510a.jpg)
+
+# Structural Diagram
+  * High Level Structural Diagram![HIGH LEVEL STRUCTURAL DIAGRAM](https://user-images.githubusercontent.com/98833482/154538095-b2ec2acf-1208-44c0-bfa4-855d6599c573.jpg)
+  * Low Level Structural Diagram![LOW LEVEL STRUCTURAL DIAGRAM](https://user-images.githubusercontent.com/98833482/154538219-140a304a-2d82-4a7d-9627-2d1a8ee227c8.jpg)
+
+
+
+
