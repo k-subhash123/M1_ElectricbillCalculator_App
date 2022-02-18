@@ -1,11 +1,10 @@
 #ifndef __MainElectricityBill_H__
 #define __MainElectricityBill_H__
+#endif
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-#include<stdio.h>
-#include<stdlib.h>
-#include<conio.h>
-#include<string.h>
-#include<Windows.h>
 
 struct ElectricBill
 {
@@ -19,4 +18,3 @@ struct ElectricBill
 };
 
 struct ElectricBill B;
-#endif

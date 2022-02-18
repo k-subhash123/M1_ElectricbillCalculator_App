@@ -1,13 +1,12 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <conio.h>
-#include <string.h>
-#include <Windows.h>
+
 #include "MainElectricityBill.h"
 #include "ElectricityBill.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 void Urban();
 void Rural();
-void main()
+int main()
 { 
 	details();
 	int option;
@@ -21,7 +20,6 @@ void main()
 		printf("Electricity Board Helpline: 8435 2340\n");
 		printf("Enter your choice :\n");
 		scanf("%d", &option);
-		system("cls");
 		switch (option)
 		{
 		case 1:
@@ -33,7 +31,9 @@ void main()
 		default:
 			printf("SORRY INVALID CHOICE!\n");
 			printf("PLEASE CHOOSE FROM 1 or 2\n");
+			scanf("%d", &option);
+			break;
 		}
-		getch();
+		
 	} while (option != 3);
 }
