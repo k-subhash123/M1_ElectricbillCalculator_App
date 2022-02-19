@@ -1,6 +1,5 @@
 #ifndef __MainElectricityBill_H__
 #define __MainElectricityBill_H__
-#endif
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -17,3 +16,5 @@ struct ElectricBill
 	int phonenumber[10];
 };
 struct ElectricBill B;
+
+#endif

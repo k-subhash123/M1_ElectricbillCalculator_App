@@ -1,0 +1,8 @@
+#TargetName : Dependancies
+#<TAB>commands
+
+Build : MainElectricityBill.c ElectricityBill.c
+    gcc MainElectricityBill.c  ElectricityBill.c -o Electricity.out
+
+Run : Electricity.out
+    ./Electricity.out
