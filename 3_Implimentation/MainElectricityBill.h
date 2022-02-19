@@ -16,5 +16,4 @@ struct ElectricBill
 	char address[100];
 	int phonenumber[10];
 };
-
 struct ElectricBill B;

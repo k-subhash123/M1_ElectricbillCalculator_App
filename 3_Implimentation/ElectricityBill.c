@@ -1,4 +1,13 @@
-
+/**
+ * @file ElectricityBill.c
+ * @author subhash
+ * @brief 
+ * @version 0.1
+ * @date 2022-02-19
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include "MainElectricityBill.h"
 #include "ElectricityBill.h"
 #include <stdio.h>
@@ -42,13 +51,11 @@ void Urban()
     {
         amount = B.unitsconsumed * 7.30;
     }
-
     printf("****Electricity Bill****\n\n");
     printf("Name : %s\n", B.name);
     printf("In Urban, your electricity bill is: %d\n", amount);
     printf("Units you consumed per month: %d\n", B.unitsconsumed);
 }
-
 void Rural()
 {
     int amount=0;
