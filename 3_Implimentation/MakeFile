@@ -14,6 +14,6 @@ else
 endif
 
 Build:
-     gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+    gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 run:Build
-     ./$(call FixPath,$(PROJ_NAME).$(EXEC))
+    ./$(call FixPath,$(PROJ_NAME).$(EXEC))
