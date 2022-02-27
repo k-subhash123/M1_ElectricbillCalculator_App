@@ -34,31 +34,21 @@ In addition, high-end electricity bill calculators generally include:
 | --- | --- |
 
 | HLR1 | Electricity bill calculation at Urban areas if(units<30). |
-
 | HLR2 | Electricity bill calculation at Urban areas if(units>30 && units <100). |
-
 | HLR3 | Electricity bill calculation at Urban areas if(units>101 && units <200). |
-
 | HLR4 | Electricity bill calculation at Urban areas if(units<200). |	
-
 | HLR5 | Electricity bill calculation at Rural areas if(units<30). |
-
 | HLR6 | Electricity bill calculation at Rural areas if(units>30 && units <100). |
-
 | HLR7 | Electricity bill calculation at Rural areas if(units>101 && units <200). |	
-
-| HLR8 | Electricity bill calculation at Rural areas if(units<200). |
+| HLR8 | ELectricity bill calculation at Rural areas if(units<200). |
 
 ## Low Level Requirement:
 
 | **ID**| **Description** |
 | --- | --- |
 | LLR1 | Calculates electricity bill at rural areas. |
-
 | LLR2 | Calculates electricity bill at urban areas. |
-
 | LLR3 | Calculates total load at domestics places. |
-
 | LLR | 4Calculates total unit consumed at domestics places. |
 
 ## SWOT analysis:
