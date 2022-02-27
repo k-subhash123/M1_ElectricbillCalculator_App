@@ -32,7 +32,6 @@ In addition, high-end electricity bill calculators generally include:
 
 | **ID**| **Description** |
 | --- | --- |
-
 | HLR1 | Electricity bill calculation at Urban areas if(units<30). |
 | HLR2 | Electricity bill calculation at Urban areas if(units>30 && units <100). |
 | HLR3 | Electricity bill calculation at Urban areas if(units>101 && units <200). |
