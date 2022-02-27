@@ -1,8 +1,19 @@
-#TargetName : Dependancies
-#<TAB>commands
+PROJ_NAME= Electricity
+SRC=MainElectricityBill.c ElectricityBill.c
 
-Build : MainElectricityBill.c ElectricityBill.c
-    gcc MainElectricityBill.c  ElectricityBill.c -o Electricity.out
+ifdef OS
+   RM = del /q
+   FixPath = $(subst /,\,$1)
+   EXEC = exe
+else
+   ifeq ($(shell uname), Linux)
+      RM = rm -rf
+      FixPath = $1
+      EXEC = out
+   endif
+endif
 
-Run : Electricity.out
-    ./Electricity.out
+Build:
+     gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+run:Build
+     ./$(call FixPath,$(PROJ_NAME).$(EXEC))
