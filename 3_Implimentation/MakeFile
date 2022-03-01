@@ -1,5 +1,5 @@
 PROJ_NAME= Electricity
-SRC=MainElectricityBill.c ElectricityBill.c
+SRC = MainElectricityBill.c ElectricityBill.c
 
 ifdef OS
    RM = del /q
@@ -13,7 +13,10 @@ else
    endif
 endif
 
-Build:
-    gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
-run: Build
-    ./$(call FixPath,$(PROJ_NAME).$(EXEC))
+INC = ElectricityBill.h MainElectricityBill.h
+
+Build : $(SRC) 
+	gcc $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+
+run : Build
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
